@@ -2,7 +2,7 @@
 //contains at least 1 number and 1 letter
                            
 
-let password = ("123pas sword123")
+let password = ("123pasdsword123")
 
 function containsNumber(password){
     return /\d/.test(password);
